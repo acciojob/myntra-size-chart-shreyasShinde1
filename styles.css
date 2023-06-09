@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+thead{
+	background-color: rgb(214, 52, 85);
+}
+.waist{
+	background-color: rgb(242, 183, 195);
+}
+.chest{
+	background-color: rgb(248, 225, 229);
+}
+.sleeve{
+	background-color: rgb(227, 239, 244);
+}
+table{
+	align-content: space-between;
+}
