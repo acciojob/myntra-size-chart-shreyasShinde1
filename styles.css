@@ -1,7 +1,15 @@
 
 /* Your CSS Code here. */
+*{
+
+}
 thead{
 	background-color: rgb(214, 52, 85);
+	text-align:left; 
+}
+tbody{
+	margin:20px;
+	
 }
 .waist{
 	background-color: rgb(242, 183, 195);
@@ -14,4 +22,6 @@ thead{
 }
 table{
 	align-content: space-between;
+	width:100%;
+	
 }
